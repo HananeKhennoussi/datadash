@@ -1,0 +1,11 @@
+# Environnements Python locaux
+venv/
+.venv
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Variables d'environnement
+.env
+
